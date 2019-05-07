@@ -1,11 +1,11 @@
-# Hey, I'm Sean Ippolito
+## Hey, I'm Sean Ippolito
 
 ## BSU graduate: BS Applied Mathematics, BA Economics
 ## MS Mathematics in progress
 
 Mathematician and Satistician.
 
-Aspiring Machine Learning Engineeer, Data Scientist/Analyst.
+Aspiring Data Scientist and Machine Learning Engineer.
 
 Interests in Spatial & Network data, Topology, Statistics, Abstract & Linear Algebra, Dynamical Systems, and their applications to Data Science.
 
