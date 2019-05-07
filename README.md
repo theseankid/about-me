@@ -1,4 +1,4 @@
-# hello-world, I'm Sean Ippolito
+# Hey, I'm Sean Ippolito
 
 ## BSU graduate: BS Applied Mathematics, BA Economics
 ## MS Mathematics in progress
