@@ -3,16 +3,13 @@
 ## BSU graduate: BS Applied Mathematics, BA Economics
 ## MS Mathematics in progress
 
-Mathematician and Satistician.
+Mathematician, Satistician, Data Scientist.
 
-Aspiring Data Scientist and Machine Learning Engineer.
+Working as a Data Analyst.
 
 Interests in Spatial & Network data, Topology, Statistics, Abstract & Linear Algebra, Dynamical Systems, and their applications to Data Science.
 
 Experience in Research, Teaching, and Data Analytics.
-
 McNair scholar with publication modeling sustainable, economic systems.
-
-Working on: research project in economics and data science.
 
 When I'm not doing these things, I listen to metal.
